@@ -1,0 +1,15 @@
+variables:
+Nos permiten guardar algo y después recuperralo.
+
+Strings:
+Palabras o hilos de letras que siempre empiezan y terminan con comillas.
+
+Funciones:
+Agrupación de códigos que después podemos reutilizar, adaptándolos con variables.
+Return: nos devuelve el resultado de la función invocada.
+
+Declaraciones "if": 
+nos permiten agregar una lógica a las Funciones.
+"if": Condiciónes que se convierten en verdadero o falso.
+
+Valores Booleanos: Son dos valores posibles que són verdadero o falso.

@@ -1,0 +1,13 @@
+for: conformada por tre partes.
+Lugo de escribir su nombre for, entre parentesis armamos:
+* una variable; 
+* una expresión que lo condicionará hasta que el resultado sea false;
+* incremento de la variable, para que vaya de a uno.
+
+&&: (Y) evalúa dos objetos y devuelve verdadero si ambos lo són, 
+de lo contrario devuelve false.
+
+||: (Ó) compara y devuelve true si uno o varios son true, y devuelve
+false si todos son false.
+
+!: (NO) devuelve el valor booleano opuesto de lo que se le pasa.

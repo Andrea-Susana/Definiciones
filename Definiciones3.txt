@@ -1,0 +1,6 @@
+Arrays: (Arreglos)
+Son listas de elementos.
+Se definen usando los brackets y
+puede recibir cualquier cantidad y 
+cualquier tipo de elementos, hasta 
+tener otros arreglos dentro.

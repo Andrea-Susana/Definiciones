@@ -1,0 +1,20 @@
+
+Objetos: Es una colección de propiedades.
+
+Propiedades: Es una asociación entre un nombre (o clave)
+y un valor.
+
+Métodos: 
+(This) me permite cambiar la misma cosa en 
+varios lugares.
+
+Bucle "For-in": Se declara una variable, la 
+palabra in y el nombre del objeto.
+
+
+Notación por puntos vs. Notación por corchetes:
+Un objeto es en realidad un arreglo asociativo .
+Las claves en este arreglo son los nombres de 
+las propiedades y los métodos.
+Hay dos modos de acceder a estas propiedades:
+ notación por punto y notación por corchete 

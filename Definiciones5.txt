@@ -1,0 +1,9 @@
+Prototype:
+Es la forma única que tienen las clases de 
+de establecer un método una vez y dar acceso
+a cada objeto de esa clase o métodos.
+
+Constructors (de clases):
+Es una plantilla que nos permite crear
+objetos que comparten algunos de los mismas 
+propiedades y métodos.
